@@ -2,7 +2,7 @@
 <html>
 </div>
 <head>
-	<title>Bienvenido</title>
+	<title></title>
 	
 	<link rel="stylesheet" type="text/css" href="libreria/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="alertifyjs/css/alertifyjs.css">
