@@ -2,7 +2,7 @@
 <html>
 </div>
 <head>
-	<title></title>
+	<title>git status</title>
 	
 	<link rel="stylesheet" type="text/css" href="libreria/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="alertifyjs/css/alertifyjs.css">
