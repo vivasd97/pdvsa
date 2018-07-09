@@ -10,9 +10,9 @@
         <div class="list-group col-sm-4 col-md-3 col-md-offset-0 spacing-1">
         <p class="list-group-item active center title_select">Activos para Gestionar</p>
           <div class="spacing-2" id="menu">
-            <a href="pc.php" class="list-group-item ayuda"><span class="ayudatext">Equipos</span><img src="img/icono_pc.png" class="icono"></a>
-            <a href="per.php" class="list-group-item ayuda"><img src="img/icono_peref.png" class="icono"><span class="ayudatext">Perefericos</span></a>
-            <a href="imp.php" class="list-group-item ayuda"><img src="img/icono_impre.png" class="icono"><span class="ayudatext">Impresoras</span></a>
+            <a href="pc.php" class="list-group-item ayuda"><span class="ayudatext">Equipos</span><img src="img/icono_pc.png" class="icono-slider"></a>
+            <a href="per.php" class="list-group-item ayuda"><img src="img/icono_peref.png" class="icono-slider"><span class="ayudatext">Perefericos</span></a>
+            <a href="imp.php" class="list-group-item ayuda"><img src="img/icono_impre.png" class="icono-slider"><span class="ayudatext">Impresoras</span></a>
           </div>
         </div>
 

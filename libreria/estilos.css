@@ -167,14 +167,14 @@ body {
   width: 185px;
   height: 50px; }
 
-.icono {
+.icono,.icono-slider {
   width: 55px;
   height: 50px; }
 
 .ayuda {
  }
   .ayuda .ayudatext {
-    width: 40%;
+    width: 75%;
     left: 2%;
     background-color: rgba(0, 0, 0, 0.6);
     color: #fff;
@@ -260,8 +260,24 @@ background-color: rgba(131, 131, 131, 0.7);}
     transition: 0.5s;
 }
 
+.btn-success {
+    color: #fff;
+    background-color: #f00;
+    border-color: #4cae4c;
+    transition:  0.5s;
+}
+
+.btn-success:hover {
+    color: #000;
+    background-color: #fff;
+    border-color: #000;
+     transition:  0.5s;
+}
 /*# sourceMappingURL=estilos.css.map */
 
 /*# sourceMappingURL=estilos.css.map */
 
 
+.icono-slider{
+  margin-left: 80%;
+}

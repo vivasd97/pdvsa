@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
 	<title>Login</title>
 	
@@ -46,6 +45,9 @@ window.setInterval(function () {
     }
 }, 50);
 </script>
+
+</html>
+
 
 
 

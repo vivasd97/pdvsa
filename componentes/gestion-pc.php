@@ -7,7 +7,7 @@
 
               	<div class="spacing-2" id="menu">
                   <p class="list-group-item center" disabled><img src="img/icono_pc.png" class="icono"></p>
-                   <a href="inicio.php" title="regresar" class="list-group-item white_2 ayuda"><img src="img/icono_volver.png" class="icono"><span class="ayudatext">regresar</span></a>
+                   <a href="inicio.php" title="regresar" class="list-group-item white_2 ayuda"><img src="img/icono_volver.png" class="icono-slider"><span class="ayudatext">regresar</span></a>
                 </div>
           	</div>
             <div>
