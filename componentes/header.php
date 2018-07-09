@@ -24,7 +24,7 @@
            <form class="navbar-form navbar-right" >  
               <img src="img/admin.png" style=" width: 25px; height: 25px">  
               <!--<button type="submit" class="btn btn-warning"><span class="glyphicon glyphicon-log-in g"></span>Cerrar Session</button>-->
-              <a href="componentes/logout.php"><img src="img/icono_cerrar.ico" style=" width: 35px; height: 30px"></a> 
+              <a href="componentes/logout.php"><img src="img/icono_cerrar.png" style=" width: 35px; height: 30px"></a> 
             </form>
 
           </div>
